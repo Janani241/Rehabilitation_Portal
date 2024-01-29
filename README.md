@@ -1,1 +1,3 @@
-# Rehabilitation_Portal
+# Rehabilitation Portal
+
+The outbreak of coronavirus across the world has helped us understand the requirement of a system where proper physiotherapy sessions can be provided to patients without physically visiting them. Creating such systems would help with practicing the sessions regularly even if the patient or therapist is not in the same city. To tackle the above-mentioned issues, different technologies like video processing from the domain of computer vision can be used where the patient’s videos can be evaluated based on deep learning algorithms without the physical supervision of physiotherapist. The project focuses on proper classification and identification of different group of exercises through various deep learning models.
